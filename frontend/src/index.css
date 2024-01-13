@@ -13,8 +13,6 @@ body {
 }
 header {
   background: #fff;
-  border-bottom: 2px solid #1aac83;
-  border-top: 4px solid #1aac83;
 }
 header .container {
   max-width: 1400px;
